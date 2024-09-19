@@ -34,7 +34,7 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/pollockjj/arcane-artifex",
+  "url": "https://github.com/dusparr/arcane-artifex",
   "manifest": "https://github.com/dusparr/arcane-artifex/blob/master/module.json",
   "download": "https://github.com/dusparr/arcane-artifex/releases/download/v0.1/module.zip",
   "license": "LICENSE",
